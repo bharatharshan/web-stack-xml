@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE gamevault SYSTEM "gamevault.dtd"> -->
+<!-- <?xml-stylesheet href="tailwind.xsl" type="text/xsl"?> -->
+<?xml-stylesheet href="gamevault.xsl" type="text/xsl"?>
+<gamevault xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns="http://www.example.com/gamevault" xsi:schemaLocation="http://www.example.com/gamevault
+gamevault.xsd">
+
+    <Game1>
+        <Name>Valorant</Name>
+        <Developer>&amp;RiotGames</Developer>
+        <Publisher>&amp;RiotGames</Publisher>
+        <Genre>Action, Multiplayer, FPS</Genre>
+        <Platform>PC</Platform>
+        <Rating>9.5</Rating>
+        <ReleaseYear>2020</ReleaseYear>
+        <Description>Valorant is a team-based first-person tactical hero shooter set in the near future.</Description>
+    </Game1>
+
+    <Game2>
+        <Name>Tekken</Name>
+        <Developer>&amp;BandaiNamco</Developer>
+        <Publisher>&amp;BandaiNamco</Publisher>
+        <Genre>Multiplayer, Fighting</Genre>
+        <Platform>PC</Platform>
+        <Rating>8.5</Rating>
+        <ReleaseYear>2024</ReleaseYear>
+        <Description>Tekken (鉄拳) is a fighting game developed and published by Namco.</Description>
+    </Game2>
+
+    <Game3>
+        <Name>Cyberpunk 2077</Name>
+        <Developer>&amp;CDProjekt</Developer>
+        <Publisher>&amp;CDProjekt</Publisher>
+        <Genre>Action RPG</Genre>
+        <Platform>PC</Platform>
+        <Rating>9.0</Rating>
+        <ReleaseYear>2020</ReleaseYear>
+        <Description>Cyberpunk 2077 is an open-world, action-adventure RPG set in Night City, a megalopolis obsessed with power, glamour, and body modification.</Description>
+    </Game3>
+
+    <Game4>
+        <Name>God of War</Name>
+        <Developer>&amp;SonyInteractive</Developer>
+        <Publisher>&amp;SonyInteractive</Publisher>
+        <Genre>Action</Genre>
+        <Platform>PlayStation</Platform>
+        <Rating>9.2</Rating>
+        <ReleaseYear>2018</ReleaseYear>
+        <Description>In God of War, players control Kratos, a Spartan warrior who is sent by the Greek gods to kill Ares, the god of war.</Description>
+    </Game4>
+
+    <Game5>
+        <Name>Red Dead Redemption 2</Name>
+        <Developer>&amp;RockstarGames</Developer>
+        <Publisher>&amp;RockstarGames</Publisher>
+        <Genre>Action Adventure</Genre>
+        <Platform>Xbox</Platform>
+        <Rating>9.5</Rating>
+        <ReleaseYear>2018</ReleaseYear>
+        <Description>The story is set in a fictionalized representation of the United States in 1899.</Description>
+    </Game5>
+
+    <Game6>
+        <Name>Assassin's Creed Valhalla</Name>
+        <Developer>&amp;Ubisoft</Developer>
+        <Publisher>&amp;Ubisoft</Publisher>
+        <Genre>Action RPG</Genre>
+        <Platform>PC</Platform>
+        <Rating>9.0</Rating>
+        <ReleaseYear>2020</ReleaseYear>
+        <Description>Assassin's Creed Valhalla is a 2020 Viking fantasy action role-playing video game developed by Ubisoft Montreal and published by Ubisoft.</Description>
+    </Game6>
+
+    <Game7>
+        <Name>Grand Theft Auto V</Name>
+        <Developer>&amp;RockstarGames</Developer>
+        <Publisher>&amp;RockstarGames</Publisher>
+        <Genre>&amp;RPG</Genre>
+        <Platform>PlayStation 4</Platform>
+        <Rating>9.5</Rating>
+        <ReleaseYear>2013</ReleaseYear>
+        <Description>Grand Theft Auto V is an action-adventure game played from either a third-person or first-person perspective.</Description>
+    </Game7>
+
+    <Game8>
+        <Name>The Witcher 3</Name>
+        <Developer>&amp;CDProjekt</Developer>
+        <Publisher>&amp;CDProjekt</Publisher>
+        <Genre>&amp;RPG</Genre>
+        <Platform>PC</Platform>
+        <Rating>9.8</Rating>
+        <ReleaseYear>2015</ReleaseYear>
+        <Description>The Witcher 3 is an enormous game that features open-world exploration, side quests, main quests, crafting, alchemy, and Gwent, a popular card game.</Description>
+    </Game8>
+
+    <Game9>
+        <Name>DOOM Eternal</Name>
+        <Developer>&amp;Bethesda</Developer>
+        <Publisher>&amp;Bethesda</Publisher>
+        <Genre>&amp;FPS</Genre>
+        <Platform>Xbox One</Platform>
+        <Rating>9.0</Rating>
+        <ReleaseYear>2020</ReleaseYear>
+        <Description>Players once again take on the role of the Doom Slayer who battles the demonic forces of Hell, from a first-person perspective.</Description>
+    </Game9>
+</gamevault>
